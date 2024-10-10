@@ -1,6 +1,6 @@
-![Task Manager - GUI](image/image.png)
-
 # 🖥️ Task Manager - GUI
+![Task Manager - GUI](image/image.png)
+|:----------------------------------------:|
 
 > A modern and intuitive Windows-based Task Manager application, designed for real-time process monitoring and management.
 
