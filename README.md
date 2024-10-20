@@ -43,9 +43,7 @@
 
 
 ## 📞 Contact
-
-**Your Name**
-
+- Name: Aditya Ashok Darekar
 - Email: aditya28301@gmail.com
 - LinkedIn: [aditya-darekar](https://www.linkedin.com/in/aditya-darekar-318a26143/)
 - GitHub: [aditya28301](https://github.com/aditya28301)
