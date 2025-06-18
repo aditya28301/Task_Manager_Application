@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-17-blue?logo=c%2B%2B" alt="C++17" />
   <img src="https://img.shields.io/badge/Platform-Linux-informational?logo=linux" alt="Linux" />
-  <img src="https://img.shields.io/badge/Thread-Safe-Yes-success" alt="Thread Safe" />
+  <img src="https://img.shields.io/badge/Thread%20Safe-Yes-success" alt="Thread Safe" />
   <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT" />
 </p>
 
