@@ -398,12 +398,6 @@ Thumbs.db            # Windows
 *.pro.user.*
 *.qmlproject.user
 
-# === CMake ===
-CMakeFiles/
-CMakeCache.txt
-cmake_install.cmake
-Makefile
-compile_commands.json
 
 # === Logs and Temp ===
 *.log
