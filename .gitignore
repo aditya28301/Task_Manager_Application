@@ -361,3 +361,74 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# === OS-Specific ===
+.DS_Store            # macOS
+Thumbs.db            # Windows
+
+# === Compiled Object Files ===
+*.o
+*.obj
+*.lo
+*.la
+
+# === Compiled Binaries ===
+*.exe
+*.out
+*.app
+*.so
+*.a
+*.dll
+
+# === Build Directories ===
+/build/
+/bin/
+/debug/
+/release/
+/x64/
+/x86/
+
+# === Qt Creator ===
+*.autosave
+*.user
+*.user.*
+*.pro.user
+*.qbs.user
+*.qmake.stash
+*.pro.user.*
+*.qmlproject.user
+
+# === CMake ===
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# === Logs and Temp ===
+*.log
+*.tmp
+*.swp
+*.swo
+
+# === Backup Files ===
+*~
+*.bak
+*.old
+
+# === Version Control ===
+.git/
+.gitignore
+
+# === IDEs ===
+.vscode/
+.idea/
+
+# === Credentials or Secrets ===
+.env
+*.key
+*.pem
+*.crt
+*.secret
+config.ini
+
