@@ -16,7 +16,7 @@
 ## 🖼️ Screenshot
 
 <p align="center">
-  <img src="screenshot/filewatcher.png" alt="Demo Screenshot" width="700"/>
+  <img src="screenshot/file_watcher.png" alt="Demo Screenshot" width="700"/>
   <img src="screenshot/command_history.png" alt="Demo Screenshot" width="700"/>
 </p>
 
